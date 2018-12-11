@@ -3,6 +3,7 @@
 Start the program with
 
 > javac StringManipulator.java
+
 > java StringManipulator
 
 or
