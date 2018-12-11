@@ -16,7 +16,7 @@ import java.math.*;
  * <li><b>reverse Text</b><br>
  * <li><b>1337 Text</b>
  * </ul>
- * @author jmueller developed by J. Mueller
+ * @author tuxchen
  * @version 1.0
  */
 
